@@ -58,6 +58,7 @@
             fill="none"
             viewBox="0 0 24 24"
             stroke="currentColor"
+            title="This is a proof of concept"
           >
             <path
               stroke-linecap="round"
